@@ -1,0 +1,11 @@
+num1,num2,num3 = input().split()
+num1 = int(num1)
+num2 = int(num2)
+num3 = int(num3)
+ 
+if (num1 > num2) and (num1 > num3):
+   print(num1,end="")
+elif (num2 > num1) and (num2 > num3):
+   print(num2,end="")
+else:
+   print(num3,end="")
