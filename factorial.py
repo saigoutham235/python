@@ -1,3 +1,6 @@
 import math
-b=int(input())
-print(math.factorial(b))
+a=int(input())
+if a > 0:
+	print(math.factorial(a))
+else:
+	print(invalid,end="")
