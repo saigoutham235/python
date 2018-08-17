@@ -6,4 +6,4 @@ for i in range(2,a//2+1):
 if(k<=0):
     print("yes",end="")
 else:
-    print("No",end="")
+    print("no",end="")
