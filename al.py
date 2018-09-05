@@ -8,6 +8,6 @@ for i in s:
 		c2+=1
 		
 if(c1>0 and c2>0):
-	print('yes')
+	print('Yes')
 else:
-	print('no')
+	print('No')
