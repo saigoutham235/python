@@ -6,6 +6,6 @@ for i in range(1,n):
         k=" "
       else:
         k=""
-print(n,end=" ")
+print(n,end=k)
       
 	
