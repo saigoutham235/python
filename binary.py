@@ -6,5 +6,5 @@ for i in range(0,len(k)):
 if(count==len(k)):
   print("yes")
 else:
-  print("No")
+  print("no")
 
